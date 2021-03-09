@@ -1,8 +1,8 @@
 # Pic 2 Text
 
-  Pic 2 Text is an application, that let's you scan the doc and displays the text.
+  **Pic 2 Text is an application, that let's you scan the doc and displays the text.
   I developed Pic 2 Text using my beginner to intermediate knowledge in Flutter.
-
+**
   Made with Flutter.
   ---
   Powered by Firebase.
