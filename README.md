@@ -1,4 +1,4 @@
-# pic2text_app
+# Pic 2 Text
 
 A new Flutter application.
 
