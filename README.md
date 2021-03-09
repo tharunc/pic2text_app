@@ -6,6 +6,11 @@
   Made with Flutter.
   ---
   Powered by Firebase.
+  
+  ## :sunglasses:  Overview: :point_down:
+
+  <img src="https://github.com/tharunc/pic2text_app/blob/master/assets/splash.png"/> <br>
+
 
 ## Getting Started
 
