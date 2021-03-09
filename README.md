@@ -4,6 +4,7 @@
   I developed Pic 2 Text using my beginner to intermediate knowledge in Flutter.
 
   Made with Flutter.
+  ---
   Powered by Firebase.
 
 ## Getting Started
