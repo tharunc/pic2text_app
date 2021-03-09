@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47328758135",
+    "project_id": "pic2text-ff921",
+    "storage_bucket": "pic2text-ff921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47328758135:android:591e844b976bd840737972",
+        "android_client_info": {
+          "package_name": "com.tharun.pic2text_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47328758135-d9476mrf6crr3k4p483t5rjq7ces13jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZToFnQ2jGKZf-5hZzhKav5XRhrm0E44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47328758135-d9476mrf6crr3k4p483t5rjq7ces13jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
